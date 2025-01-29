@@ -1,4 +1,4 @@
-# Omdena Kenya Floodimpact
+# Kenya Floodimpact
 Identifying Flood-Prone Regions And Assessing Impact Of Floods In Kenya Using Satellite Data
 
 
@@ -59,7 +59,7 @@ Open the Command line or Terminal
 - Clone the repository
 
 ```
-git clone https://github.com/OmdenaAI/omdena-kenya-floodimpact.git
+git clone https://github.com/pnjoki/FloodImpact.git
 ```
 - Move to the folder
 
